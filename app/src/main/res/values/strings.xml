@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExteraEdge Assigment</string>
+    <string name="main_activity_heading">Rocket List</string>
+    <string name="item_name_heading">Name:</string>
+    <string name="item_country_heading">Country:</string>
+    <string name="item_engine_count">No of engines:</string>
+
+    //rocket details page
+    <string name="rocket_details_title">Rocket Details</string>
+    <string name="rocket_details_active_state">Active State:</string>
+    <string name="rocket_details_cost_per_launch">Cost per launch:</string>
+    <string name="rocket_details_success_rate_percentage">Success rate percentage:</string>
+    <string name="rocket_details_description">Description:</string>
+    <string name="rocket_details_height">Height(Feet/Inches):</string>
+    <string name="rocket_details_diameter">Diameter(Feet/Inches):</string>
+    <string name="rocket_details_wikipedia_link">Wikipedia:</string>
+
+</resources>
